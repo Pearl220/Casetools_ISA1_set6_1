@@ -17,4 +17,8 @@ public class Vegetable {
 		}
 
 
+		String getType()
+		{
+			return name;
+		}
 }
